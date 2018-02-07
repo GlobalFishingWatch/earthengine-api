@@ -1,0 +1,9 @@
+# python
+*.pyc
+*.egg-info
+
+#Pycharm
+.idea
+
+#Virtualenv
+venv

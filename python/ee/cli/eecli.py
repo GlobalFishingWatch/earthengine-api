@@ -35,6 +35,7 @@ class CommandDispatcher(commands.Dispatcher):
       commands.RmCommand,
       commands.TaskCommand,
       commands.UploadCommand,
+      commands.UploadImageManifestCommand,
   ]
 
 
